@@ -1,7 +1,5 @@
-fastapi
-uvicorn
-httpx[http2]
+Flask
+flask-cors
+httpx
 pycryptodome
-PyJWT
 protobuf
-urllib3
